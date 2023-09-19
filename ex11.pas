@@ -1,4 +1,4 @@
-﻿program ex9;
+﻿program ex11;
 var a,b,c,n,m,r:integer;
 begin
 write('Введите трехзначное число:');
